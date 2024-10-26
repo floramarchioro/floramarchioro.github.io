@@ -2,7 +2,7 @@
 title: "Università della Svizzera italiana"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: ""
 venue: "Università della Svizzera italiana, Department of Economics"
 date: 2015-01-01
 location: "Lugano, Switzerland"
