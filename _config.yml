@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Flora Marchioro / Welcome!"
+title                    : "Flora Marchioro"
 title_separator          : "-"
 name                     : &name "Flora Marchioro"
 description              : &description "metti description"
@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Flora Marchioro"
+  pronouns         : "she/her"  
   bio              : "Metti bio"
   location         : "Lugano (CH)"
   employer         : "Università della Svizzera italiana (USI)"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://linkedin.com/in/flora-marchioro/"
+  linkedin         : "flora-marchioro"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://x.com/flora_marchioro"
+  twitter          : "flora_marchioro"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
