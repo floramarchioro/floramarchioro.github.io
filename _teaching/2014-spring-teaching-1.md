@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Public Economics B"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+type: "B.Sc"
+permalink: https://search.usi.ch/en/courses/35270506/economia-pubblica-b
+venue: "Università della Svizzera italiana"
 date: 2014-01-01
-location: "City, Country"
+location: "Fall 2022"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
