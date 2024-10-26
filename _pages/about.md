@@ -11,6 +11,6 @@ I am a PhD Candidate in Economics at the Institute of Economics [IdEP](https://i
 
 In 2025, I will be a visiting researcher at Barcelona School of Economics under Prof. [Mar Reguant](https://mreguant.github.io/). I am co-organiser of the first edidion of the  Workshop IdEP in Sustainable Economics, which will take place in March 2025. Check out here our [WISE 2025](https://www.dropbox.com/scl/fi/k4xqsdofgi3na72lj0dp4/WISE-2025.pdf?rlkey=1ss34basy2vmmvzl77vd7fo4q&e=2&dl=0) call for papers!
 
-My research focuses on applied economics, with particular emphasis on energy economics, carbon markets and climate risks. More info on my [research statement[(files/Marchioro_RS.pdf).
+My research focuses on applied economics, with particular emphasis on energy economics, carbon markets and climate risks. More info on my [research statement](https://github.com/floramarchioro/floramarchioro.github.io/blob/master/files/Marchioro_RS.pdf).
 
 
