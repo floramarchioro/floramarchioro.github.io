@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Economics at the Institute of Economics [IdEP](https://idep.usi.ch/) of Università della Svizzera italiana, under the supervision of Prof. [Massimo Filippini](https://scholar.google.com/citations?user=rFW0mNUAAAAJ&hl=it). In 2022, I completed the Swiss Program for Beginning Doctoral Students in Economics, offered by the [Swiss National Bank]{https://szgerzensee.ch/}. Before joining IdEP, I was research assistant at the [Environmental Economics Research Center](https://www.novasbe.unl.pt/en/environmental) of Nova SBE. 
+I am a PhD Candidate in Economics at the Institute of Economics [IdEP](https://idep.usi.ch/) of Università della Svizzera italiana, under the supervision of Prof. [Massimo Filippini](https://scholar.google.com/citations?user=rFW0mNUAAAAJ&hl=it). In 2022, I completed the Swiss Program for Beginning Doctoral Students in Economics, offered by the (Swiss National Bank){https://szgerzensee.ch/}. Before joining IdEP, I was research assistant at the [Environmental Economics Research Center](https://www.novasbe.unl.pt/en/environmental) of Nova SBE. 
 
-In 2025, I will be a visiting researcher at Barcelona School of Economics under Prof. [Mar Reguant](https://mreguant.github.io/). I am co-organiser of the first edidion of the  Workshop IdEP in Sustainable Economics (WISE 2025), which will take place in March 2025. Check out here our [WISE 2025](https://www.dropbox.com/scl/fi/k4xqsdofgi3na72lj0dp4/WISE-2025.pdf?rlkey=1ss34basy2vmmvzl77vd7fo4q&e=2&dl=0) call for papers!
+In 2025, I will be a visiting researcher at Barcelona School of Economics under Prof. [Mar Reguant](https://mreguant.github.io/). I am co-organiser of the first edidion of the  Workshop IdEP in Sustainable Economics, which will take place in March 2025. Check out here our [WISE 2025](https://www.dropbox.com/scl/fi/k4xqsdofgi3na72lj0dp4/WISE-2025.pdf?rlkey=1ss34basy2vmmvzl77vd7fo4q&e=2&dl=0) call for papers!
 
 My research focuses on applied economics, with particular emphasis on energy economics, carbon markets and climate risks. More info on my (research statement){files/Marchioro_RS.pdf}.
 
