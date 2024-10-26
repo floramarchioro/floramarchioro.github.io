@@ -1,8 +1,7 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant at Università della Svizzera italiana"
 permalink: /teaching/
 layout: single
-location: "Università della Svizzera italiana"
 ---
 
 
