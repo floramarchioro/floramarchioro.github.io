@@ -9,7 +9,7 @@ redirect_from:
 ## Working papers
 
   [**Impact of monetary incentives on the adoption of direct load control electricity tariffs by residential consumers**](https://ethz.ch/content/dam/ethz/special-interest/mtec/cer-eth/cer-eth-dam/documents/working-papers/wp-23-389.pdf) (with [D. Cerruti](https://davidecerruti.weebly.com/), [M. Filippini](https://scholar.google.com/citations?user=rFW0mNUAAAAJ&hl=it), [J. Savelsberg](https://sites.google.com/view/jonassavelsberg/about))  <br/>
-  <details>
+
 Presented at: EMEE 2024 (ETH Zurich); FSR Workshop 2023 (EUI Florence); SERE 2023 (ETH Zurich).  <br/>
   <details>
   <summary>Abstract</summary> <br/>
