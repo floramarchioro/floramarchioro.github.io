@@ -5,9 +5,6 @@ e# The following is the order of the links in the header of the website.
 # prevent it from being included in the site.
 
 main:
-
-  - title: "Flora Marchioro"
-    url: /
     
   - title: "CV"
     url: /files/CV_Flora_Marchioro.pdf
