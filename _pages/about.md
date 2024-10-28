@@ -14,9 +14,9 @@ In 2025, I will be a visiting researcher at Barcelona School of Economics under 
 My research focuses on applied economics, with particular emphasis on energy economics, carbon markets and climate risks. More information is available on my [research statement](/assets/Marchioro_RS.pdf){:target="_blank"}.
 
 **Contact:**
-Institute of Economics (IdEP)
-Università della Svizzera italiana
-Via Buffi 6, CH-6900 Lugano
-email: flora.marchioro[at]usi.ch
+Institute of Economics (IdEP)<br>
+Università della Svizzera italiana<br>
+Via Buffi 6, CH-6900 Lugano<br>
+email: flora.marchioro[at]usi.ch<br>
 
 
