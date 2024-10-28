@@ -16,15 +16,6 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <!-- Navigation bar -->
-    <nav>
-      <ul>
-        {% for item in site.data.navigation %}
-          <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </nav>
-
     {{ content }}
 
     <div class="page__footer">
@@ -36,5 +27,4 @@ layout: compress
 
     {% include scripts.html %}
 
-  </body>
-</html>
+  </body>"
