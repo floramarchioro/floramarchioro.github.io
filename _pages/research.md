@@ -14,7 +14,7 @@ redirect_from:
 To overcome the inherent clash between the ever-increasing push for electrification in the transportation and heating sectors, and the intermittent nature of renewable energy sources, demand response solutions such as direct load control (DLC) tariffs are receiving growing
 attention from researchers and policymakers. The present study aims to investigate the impact of two measures (i.e. a video intervention and an upfront subsidy) in increasing the acceptance rates of an existing DLC tariff targeted at electric vehicle charging stations and heat pumps in Switzerland. To achieve this, we combine two randomized-controlled trials: (1) a stated-choice contingent valuation on electric vehicle owners to confirm the validity of the upfront susbidy, and (2) a revealed-preference field experiment on an existing DLC tariff proposed to the clients of a local distribution system operator. Results suggest that both measures of video and monetary intervention increase contact and subscription rates to the proposed DLC tariff, although the monetary intervention appears to be more convincing to consumers. Further, we use these results in combination with a bottom-up electricity market model to simulate the consequences on the level of system cost of a large-scale implementation of a DLC tariff.<br/>
   </details>
--Presented at: EMEE 2024 (ETH Zurich); FSR Workshop 2023 (EUI Florence); SERE 2023 (ETH Zurich).-  <br/>
+*Presented at: EMEE 2024 (ETH Zurich); FSR Workshop 2023 (EUI Florence); SERE 2023 (ETH Zurich).*  <br/>
  
 ## Work in Progress
 
