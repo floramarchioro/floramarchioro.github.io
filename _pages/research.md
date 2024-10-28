@@ -21,4 +21,4 @@ The impact of free carbon credits on emissions: Evidence from France <br/>
 
 Multidimentional climate risk and firm behaviour (with [S. Houde](https://sebastien-houde.com/)) <br/>
 
-Can financial resources improve national exams scores? Evidence from a prize in Ceará, Brazil (with [J. dos Santos](https://sites.google.com/site/joaorpereirasantos/home)) <br/>
+Can financial resources improve national exams scores? Evidence from a prize in Ceará, Brazil (with [JP. Dos Santos](https://sites.google.com/site/joaorpereirasantos/home)) <br/>
