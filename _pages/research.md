@@ -16,6 +16,7 @@ To overcome the inherent clash between the ever-increasing push for electrificat
 
   <details>
   <summary>Policy Brief</summary> <br/>
+  View the [Policy Brief](https://www.aramis.admin.ch/Default?DocumentID=71908&Load=true) for a summary of key policy findings and recommendations.<br/>
   </details>
 
 
