@@ -28,13 +28,13 @@ author:
   location         : "Lugano, Switzerland"
   employer         : "Università della Svizzera italiana (USI)"
   uri              : # URL
-  email            : "flora.marchioro@usi.ch" 
+  email            : # "flora.marchioro@usi.ch" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-7816-2355"
+  orcid            : # "https://orcid.org/0000-0002-7816-2355"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
