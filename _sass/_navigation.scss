@@ -46,10 +46,6 @@
     display: inline;
   }
 
-  a {
-    color: #006400; // Dark green color for breadcrumb links
-  }
-
   .current {
     font-weight: bold;
   }
@@ -87,7 +83,7 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: #006400; // Dark green color for pagination links
+      color: mix(#fff, $gray, 25%);
       border: 1px solid $light-gray;
       border-radius: 0;
 
@@ -135,7 +131,7 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: #006400; // Dark green color for pager links
+    color: mix(#fff, $gray, 50%);
     border: 1px solid $light-gray;
     border-radius: $border-radius;
 
@@ -185,7 +181,7 @@
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: #006400; // Dark green color for greedy-nav links
+    color: $masthead-link-color;
     text-decoration: none;
 
     &:hover {
@@ -270,7 +266,6 @@
       margin: 0;
       padding: 10px 20px;
       font-size: $type-size-5;
-      color: #006400; // Dark green color for hidden links
 
       &:hover {
         color: $masthead-link-color-hover;
@@ -330,7 +325,7 @@
   a {
     display: block;
     padding: 0.125em 0;
-    color: #006400; // Dark green color for nav list links
+    color: inherit;
 
     &:hover {
       text-decoration: underline;
@@ -358,7 +353,6 @@
   font-family: $sans-serif-narrow;
   font-size: $type-size-5;
   font-weight: bold;
-  color: #006400; // Dark green color for nav title
 }
 
 .nav__sub-title {
@@ -370,7 +364,6 @@
   font-weight: bold;
   text-transform: uppercase;
   border-bottom: 1px solid $border-color;
-  color: #006400; // Dark green color for nav sub-title
 }
 
 
@@ -390,4 +383,53 @@
 
   .nav__title {
     color: #fff;
-   
+    font-size: $type-size-6;
+    background: $primary-color;
+    border-top-left-radius: $border-radius;
+    border-top-right-radius: $border-radius;
+  }
+}
+
+.toc__menu {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  list-style: none;
+  font-size: 0.8rem;
+
+  a {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: $gray;
+    font-size: $type-size-7;
+    font-weight: bold;
+    line-height: 1.5;
+    border-bottom: 1px solid $border-color;
+    text-decoration-line: none !important;
+
+    &:hover {
+      color: #000;
+      background: $lighter-gray;
+    }
+  }
+
+  > li:last-child {
+    a {
+      border-bottom: none;
+    }
+  }
+
+  li ul > li a {
+    padding-left: 2rem;
+    font-weight: normal;
+  }
+
+  /* hide sub sub links on small screens*/
+  li > ul li {
+    display: none;
+
+    @include breakpoint($medium) {
+      display: block;
+    }
+  }
+}
