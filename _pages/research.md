@@ -22,7 +22,7 @@ To overcome the inherent clash between the ever-increasing push for electrificat
   <details>
   <summary>Abstract</summary> <br/>
 Market-based climate policies, such as the EU Emissions Trading System (EU ETS), aim to reduce greenhouse gas emissions while minimizing economic distor- tions, yet their full impact on firm survival remains debated. While existing re- search has confirmed the role of the EU ETS in reducing overall emissions, most studies compare regulated and unregulated firms, overlooking variations in policy stringency among ETS-covered firms. Using a difference- in-differences approach, I analyze the emissions of French industrial plants, categorizing them based on permit allocation stringency and pre-existing permit banking. I find that plants subject to stricter permit constraints reduced emissions more than their sectoral peers, but that a portion of these reductions stemmed from plant exits. A sur- vival analysis on industrial and power plants confirms that those facing higher compliance costs due to stricter permit allocation policy were significantly more likely to exit, thereby reshaping industry dynamics. These findings highlight that observed emissions reductions under the EU ETS stem partly from market exits rather than uniform abatement, raising questions about potential impacts of the policy on sector competitiveness.<br/>
-  </details>
+  </details><br/><br/><br/>
 
 
 Multidimentional climate risk and firm behaviour (with [S. Houde](https://sebastien-houde.com/)) <br/>
