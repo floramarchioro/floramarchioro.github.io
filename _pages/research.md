@@ -1,3 +1,12 @@
+---
+permalink: /research/
+author_profile: true
+title: Research
+redirect_from:
+  - /research
+  - /research.html
+---
+
 ## Working papers
 
 **Impact of monetary incentives on the adoption of direct load control electricity tariffs by residential consumers**, [*CER-ETH Working Paper 23/389*](https://ethz.ch/content/dam/ethz/special-interest/mtec/cer-eth/cer-eth-dam/documents/working-papers/wp-23-389.pdf), with [D. Cerruti](https://davidecerruti.weebly.com/), [M. Filippini](https://scholar.google.com/citations?user=rFW0mNUAAAAJ&hl=it), [J. Savelsberg](https://sites.google.com/view/jonassavelsberg/about) - [Policy brief](https://www.aramis.admin.ch/Default?DocumentID=71908&Load=true)  
