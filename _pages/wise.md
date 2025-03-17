@@ -12,7 +12,3 @@ redirect_from:
   Check out our WISE 2025 [program](https://www.usi.ch/it/feeds/30071){:target="_blank"} and our [SNF grant](https://data.snf.ch/grants/grant/232488){:target="_blank"}!
 
   ![WISE2025](/assets/wise_snow.jpg)
-
-  ![WISE2025](https://github.com/floramarchioro/floramarchioro.github.io/blob/master/images/wise_snow.jpg)
-
-  ![WISE2025]([flormarchioro/github.io/images/wise_snow.jpg](https://github.com/floramarchioro/floramarchioro.github.io/blob/master/images/wise_snow.jpg))
