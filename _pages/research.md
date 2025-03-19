@@ -23,7 +23,7 @@ Market-based climate policies, such as the EU Emissions Trading System (EU ETS),
 </div><br/>  
 
 **Multidimensional climate risk and firm behaviour**, with [S. Houde](https://sebastien-houde.com/)  
-</div><br/> 
+<br/> 
 
 **Can financial resources improve national exams scores? Evidence from a prize in Ceará, Brazil**, with [JP. Dos Santos](https://sites.google.com/site/joaorpereirasantos/home)  
 
