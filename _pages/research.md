@@ -26,3 +26,7 @@ Market-based climate policies, such as the EU Emissions Trading System (EU ETS),
 **Multidimensional climate risk and firm behaviour**, with [S. Houde](https://sebastien-houde.com/)  
 
 **Can financial resources improve national exams scores? Evidence from a prize in Ceará, Brazil**, with [JP. Dos Santos](https://sites.google.com/site/joaorpereirasantos/home)  
+
+<div style="font-size: 0.9em; text-align: justify; margin-left: 20px; margin-right: 20px;">
+This study investigates the impact of prize “Nota 10”, a monetary award established in the state of Ceará (Brazil) to assess 2nd grade students’ alphabetization skills, on 2009 standardized national exams. Interstingly, the prize was destined to both the 150 best and worst-performing schools in the state. We use school-level data from Ceará and neighboring states to establish causality in a matched difference-in-differences setting. Results indicate that the monetary prize increased significantly grades in Portuguese and in Mathematics national exams for both types of schools.
+</div><br/> 
