@@ -17,6 +17,6 @@ My research focuses on applied economics, with particular emphasis on energy eco
 Institute of Economics (IdEP)<br>
 Università della Svizzera italiana<br>
 Via Buffi 6, CH-6900 Lugano<br>
-email: flora.marchioro[at]usi.ch<br>
+email: flora.marchioro@usi.ch<br>
 
 
