@@ -13,7 +13,7 @@ I am currently visiting Barcelona School of Economics under Prof. [Mar Reguant](
 
 My research focuses on applied economics, with particular emphasis on energy economics, carbon markets and climate risks. More information is available on my [research statement](/assets/Marchioro_RS.pdf){:target="_blank"}.
 
-**Incoming 2025 conferences**: IAERE (Rome), WISE (Airolo), ESIFCLIM (Barcelona), YEEES (Paris), EAERE (Bergen), EARIE (Valencia), FAERE (Nantes).
+**Incoming 2025 conferences**: IAERE (Rome), WISE (Airolo), ESIFCLIM (Barcelona), BSE PhD Jamboree (Barcelona), YEEES (Paris), EAERE (Bergen), EARIE (Valencia), FAERE (Nantes).
 
 **Contact:**<br>
 Institute of Economics (IdEP)<br>
