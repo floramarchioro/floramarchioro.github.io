@@ -13,7 +13,7 @@ In Spring 2025, I visited the department of Barcelona School of Economics under 
 
 My research focuses on applied economics, with particular emphasis on carbon markets, energy economics and climate risks. More information is available on my [research statement](/assets/Marchioro_RS.pdf){:target="_blank"}.
 
-<code style="color : red">**I will be on the 2025/2026 academic job market.**  </code>
+{\color{red}**I will be on the 2025/2026 academic job market.**}
 
 
 **Incoming 2025 conferences**: IAERE (Rome), WISE (Airolo), BSE PhD Jamboree (Barcelona), YEEES (Paris), EARIE (Valencia), FAERE (Nantes), SIEP (Naples), AWEEP (Airolo), Early Career Workshop on Applied Environmental and Climate Change Economics (Milan).
