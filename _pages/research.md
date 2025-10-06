@@ -6,6 +6,13 @@ redirect_from:
   - /research
   - /research.html
 ---
+## Job Market Paper
+
+**Carbon Permits, Plant Emissions and Industry Dynamics: To Cut or To Quit?** - [*Draft*](https://floramarchioro.github.io/assets/Marchioro_JMP.pdf){:target="_blank"}  
+
+<div style="font-size: 0.9em; text-align: justify; margin-left: 20px; margin-right: 20px;">
+Market-based climate policies aim to reduce greenhouse gas emissions while minimizing economic distortions, yet their full impact on firm behavior and survival remains debated. This paper examines how differences in free carbon permit allocations under the EU Emissions Trading System affected the emissions and exit decisions of French industrial plants. Using a difference-in-differences approach, I classify plants by allocation stringency, ownership structure, and pre-existing permit holdings. I find that plants facing stricter allocation cuts reduced emissions more than their peers, but that part of this decline reflects compositional effects from plant closures and within-firm reallocation of production. A complementary survival analysis shows that plants with higher compliance costs—stemming from inefficient emission intensity—were significantly more likely to exit and cease operations. These results suggest that tightening free permit allocations can lower emissions both through efficiency improvements among surviving plants and through market selection, thereby reshaping industry structure and the aggregate emission profile of remaining producers.
+</div><br/> 
 
 ## Working papers
 
@@ -15,13 +22,7 @@ redirect_from:
 To overcome the inherent clash between the ever-increasing push for electrification in the transportation and heating sectors, and the intermittent nature of renewable energy sources, demand response solutions such as direct load control (DLC) tariffs are receiving growing attention from researchers and policymakers. The present study aims to investigate the impact of two measures (i.e. a video intervention and an upfront subsidy) in increasing the acceptance rates of an existing DLC tariff targeted at electric vehicle charging stations and heat pumps in Switzerland. To achieve this, we combine two randomized-controlled trials: (1) a stated-choice contingent valuation on electric vehicle owners to confirm the validity of the upfront susbidy, and (2) a revealed-preference field experiment on an existing DLC tariff proposed to the clients of a local distribution system operator. Results suggest that both measures of video and monetary intervention increase contact and subscription rates to the proposed DLC tariff, although the monetary intervention appears to be more convincing to consumers. Further, we use these results in combination with a bottom-up electricity market model to simulate the consequences on the level of system cost of a large-scale implementation of a DLC tariff.
 </div>  
 
-## Work in Progress
-
-**Carbon Permits, Plant Emissions and Industry Dynamics** - [*Draft*](https://floramarchioro.github.io/assets/Marchioro_Carbon_Permits_Plant_Emissions_and_Industry_Dynamics.pdf){:target="_blank"}  
-
-<div style="font-size: 0.9em; text-align: justify; margin-left: 20px; margin-right: 20px;">
-Market-based climate policies, such as the EU Emissions Trading System (EU ETS), aim to reduce greenhouse gas emissions while minimizing economic distortions, yet their full impact on firm survival remains debated. While existing research has confirmed the role of the EU ETS in reducing overall emissions, most studies compare regulated and unregulated firms, overlooking variations in policy stringency among ETS-covered firms. Using a difference-in-differences approach, I analyze the emissions of French industrial plants, categorizing them based on permit allocation stringency and pre-existing permit banking. I find that plants subject to stricter permit constraints reduced emissions more than their sectoral peers, but that a portion of these reductions stemmed from plant exits. A survival analysis confirms that plants facing higher compliance costs due to stricter permit allocation policy were significantly more likely to exit, possibly reshaping industry dynamics. These findings highlight that observed emissions reductions under the EU ETS stem partly from exits rather than uniform abatement, raising questions about potential impacts of the policy on sector competitiveness.
-</div><br/>  
+## Work in Progress 
 
 **Multidimensional climate risk and firm behaviour**, with [S. Houde](https://sebastien-houde.com/)  
 <br/> 
