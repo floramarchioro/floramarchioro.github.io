@@ -18,7 +18,7 @@ My research focuses on applied economics, with particular emphasis on carbon mar
 
 
 
-<span style="color: red; font-weight: bold;">I will be on the 2025/2026 academic job market.</span>
+<span font-weight: bold;">I will be on the 2025/2026 academic job market.</span>
 
 **Incoming 2025 conferences**: IAERE (Rome), WISE (Airolo), BSE PhD Jamboree (Barcelona), YEEES (Paris), EARIE (Valencia), FAERE (Nantes), SIEP (Naples), AWEEP (Airolo), Early Career Workshop on Applied Environmental and Climate Change Economics (Milan).
 
