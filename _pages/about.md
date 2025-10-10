@@ -11,7 +11,7 @@ I am a PhD Candidate at the Institute of Economics ([IdEP](https://idep.usi.ch/)
 
 In Spring 2025, I visited the department of Barcelona School of Economics under Prof. [Mar Reguant](https://mreguant.github.io/){:target="_blank"} and co-organized the inaugural Workshop IdEP in Sustainable Economics (WISE 2025). 
 
-My research focuses on applied economics, with particular emphasis on carbon markets, energy economics and climate risks. More information is available on my [research statement](/assets/Marchioro_RS.pdf){:target="_blank"}.<br>
+My research focuses on **applied economics**, with particular emphasis on **carbon markets, energy economics and climate risks**. More information is available on my [research statement](/assets/Marchioro_RS.pdf){:target="_blank"}.<br>
 
 <span style="color:red">**I will be on the 2025/2026 academic job market.**</span>
 
