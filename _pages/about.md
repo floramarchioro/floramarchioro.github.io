@@ -15,7 +15,7 @@ My research focuses on **applied economics**, with particular emphasis on **carb
 
 <span style="color:red">**I will be on the 2025/2026 academic job market.**</span>
 
-**Job Market Paper**: ["Carbon Permits, Plant Emissions and Industry Dynamics: To Cut or To Quit?"](/assets/Marchioro_JMP.pdf){:target="_blank"}.
+**JMP**: ["Carbon Permits, Plant Emissions and Industry Dynamics: To Cut or To Quit?"](/assets/Marchioro_JMP.pdf){:target="_blank"}.
 
 
 **Contact:**<br>
