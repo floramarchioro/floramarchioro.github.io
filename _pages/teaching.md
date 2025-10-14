@@ -9,4 +9,3 @@ layout: single
 - [Principles of Economics and Sustainable Development](https://search.usi.ch/it/corsi/35275806/principi-di-economia-politica-e-sviluppo-sostenibile) (BSc), Fall 2023 (Ita) - Fall 2024 (Eng) - Fall 2025 (Ita)
 - [Economia e Politica Regionale](https://search.usi.ch/it/corsi/35270574/economia-e-politica-regionale) (BSc), Spring 2022 - Spring 2023 - Spring 2024
 - [Economia Pubblica](https://search.usi.ch/it/corsi/35270553/economia-pubblica) (MSc), Spring 2022 - Spring 2023 -  Spring2024
-- [Economia Pubblica B](https://search.usi.ch/en/courses/35270506/economia-pubblica-b) (BSc), Fall 2022
