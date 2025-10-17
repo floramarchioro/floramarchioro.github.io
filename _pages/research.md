@@ -24,8 +24,16 @@ To overcome the inherent clash between the ever-increasing push for electrificat
 
 ## Work in Progress 
 
-**Multidimensional climate risk and firm behaviour**, with [S. Houde](https://sebastien-houde.com/)  
-<br/> 
+**Flood me once, flood me twice.**, with [S. Houde](https://sebastien-houde.com/)  
+
+<div style="font-size: 0.9em; text-align: justify; margin-left: 20px; margin-right: 20px;">
+This paper investigates how firms respond to major flooding shocks and whether repeated events lead
+to cumulative damage or foster adaptation. Contributing to the literature on climate risks and industry dynamics, we exploit the 1999 “Lothar” storm, which triggered widespread flood disaster declarations across Northern
+France, as a quasi-natural experiment. Linking disaster records to administrative firm-level data, we implement
+staggered difference-in-differences models with propensity score matching. We find persistent output losses of
+5% up to six years post-disaster and an immediate 20% destruction of inventories, but no lasting effects on employment or fixed assets. Ongoing work validates these findings using hydrological data and examines whether
+subsequent floods amplify damages through cumulative shocks or mitigate them through firm adaptation.
+</div>
 
 **Can financial resources improve national exams scores? Evidence from a prize in Ceará, Brazil**, with [JP. Dos Santos](https://sites.google.com/site/joaorpereirasantos/home)  
 
