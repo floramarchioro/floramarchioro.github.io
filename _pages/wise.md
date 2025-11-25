@@ -6,7 +6,7 @@ redirect_from:
   - /wise
   - /wise.html
 ---
-[Call for papers for WISE 2026 out now!]([https://www.usi.ch/en/feeds/30071](https://drive.google.com/file/d/1eGj6OMZc3xalN3XR4dLtk72D91M-V2Aw/view)){:target="_blank"}
+[Call for papers for WISE 2026 out now!](https://drive.google.com/file/d/1eGj6OMZc3xalN3XR4dLtk72D91M-V2Aw/view?usp=sharing){:target="_blank"}
 
   In March 2025 I co-funded and organised the Workshop IdEP in Sustainabile Economics (WISE), a three-day student-led workshop for young researchers on sustainable and applied economics. Ludovica Gazzé (University of Warwick) joined us as keynote speaker, together with young participants from all over Europe.
 
