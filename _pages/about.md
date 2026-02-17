@@ -11,8 +11,6 @@ I am a PhD Candidate at the Institute of Economics ([IdEP](https://idep.usi.ch/)
 
 My research focuses on **applied economics**, with particular emphasis on **carbon markets, energy economics and climate risks**. More information is available on my [research statement](/files/Marchioro_RS.pdf){:target="_blank"}.<br>
 
-<span style="color:red">**I will be on the 2025/2026 academic job market.**</span>
-
 **JMP**: ["Carbon Permits, Plant Emissions and Industry Dynamics: To Cut or To Quit?"](/files/Marchioro_JMP.pdf){:target="_blank"}.
 
 
